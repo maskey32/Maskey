@@ -1,0 +1,22 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  font-size: 1rem;
+}
+
+.navButtons {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  justify-content: space-between;
+}
+
+.mainBody {
+  width: 250px;
+}
+
+.container {
+  background-color: #e5e5e569;
+}
